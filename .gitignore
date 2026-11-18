@@ -1,3 +1,7 @@
+# Raw FDA data: too large for GitHub, and anyone can re-download it
+data/
+*.zip
+*.duckdb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
